@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980255947675",
+    "project_id": "wr-music-player",
+    "storage_bucket": "wr-music-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980255947675:android:284428e702e402ee073f3e",
+        "android_client_info": {
+          "package_name": "com.example.wr_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcfI112foP1nhGonh5GdZYlVvS_5ppXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
